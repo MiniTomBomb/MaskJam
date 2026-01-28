@@ -1289,3 +1289,150 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.28-10.52.27:106][205]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/SourceControl/UncontrolledChangelists.json
 [2026.01.28-10.52.29:512][293]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 38816.52 ms.
 [2026.01.28-10.52.29:817][294]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 39121.21 ms.
+[2026.01.28-10.53.36:018][492]LogDerivedDataCache: C:/Users/up2525351/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.28-10.54.55:703][731]LogShaderCompilers: Display: ================================================
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Total job queries 2,534, among them cache hits 667 (26.32%), DDC hits 1,806 (71.27%), Duplicates 59 (2.33%)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Tracking 1,808 distinct input hashes that result in 1,136 distinct outputs (62.83%)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: RAM used: 11.61 MiB of 1.60 GiB budget. Usage: 0.71%
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Shaders Compiled: 2
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.06 s
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Job execution time: average 1.75 s, max 1.87 s
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Job life time (pending + execution): average 1.79 s, max 1.89
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Shader code size: total 23.684 KiB, numShaders 2, average 11.842 KiB, min 11.227 KiB, max 12.457 KiB
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.89 s
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Average processing rate: 1.06 jobs/sec
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Total thread time: 2.793 s
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Total thread preprocess time: 21.469 s
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Percentage time preprocessing: 768.60%
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Effective parallelization: 1.48 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.147841
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.40 sec, max 1.47 sec, min 1.32 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                TVirtualTexturePSDisplacement (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                       TVirtualTexturePSMask4 (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                    TVirtualTexturePSBaseColorNormalRoughness (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 100.00% of total time (compiled    2 times, average 1.40 sec, max 1.47 sec, min 1.32 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                       TVirtualTexturePSMask4 - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                    TVirtualTexturePSBaseColorNormalRoughness - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display:                                 TVirtualTextureVSWorldHeight - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Materials Translated:    144
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Material Translation Only: 0.03 s (28%)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-10.54.55:704][731]LogShaderCompilers: Display: ================================================
+[2026.01.28-10.57.23:492][180]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 334.627869
+[2026.01.28-10.57.24:492][183]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-10.57.24:492][183]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 335.294586, Update Interval: 348.465820
+[2026.01.28-10.57.38:869][318]LogSlate: Took 0.000425 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2026.01.28-10.58.19:455][ 35]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2026.01.28-10.58.19:476][ 35]LogContentBrowser: Creating deferred item: NewWorld
+[2026.01.28-10.58.19:497][ 36]LogContentBrowser: Renaming the item being created (Deferred Item: NewWorld).
+[2026.01.28-10.58.22:012][204]LogContentBrowser: Attempting asset rename: NewWorld -> jam
+[2026.01.28-10.58.22:012][204]LogChaosDD: Creating Chaos Debug Draw Scene for world jam
+[2026.01.28-10.58.22:027][204]LogContentBrowser: End creating deferred item NewWorld
+[2026.01.28-10.58.23:286][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2026.01.28-10.58.25:100][281]LogSlate: Window 'Save Content' being destroyed
+[2026.01.28-10.58.25:106][281]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-10.58.25:155][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2026.01.28-10.58.25:169][281]LogSavePackage: Moving output files for package: /Game/jam
+[2026.01.28-10.58.25:169][281]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/jamC333924143B9BE507C28F3A956272387.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Content/jam.umap'
+[2026.01.28-10.58.25:175][281]LogFileHelpers: Saving map 'jam' took 0.037
+[2026.01.28-10.58.25:242][281]LogFileHelpers: InternalPromptForCheckoutAndSave took 135.827 ms (total: 255.038 ms)
+[2026.01.28-10.58.25:242][281]LogAssetEditorSubsystem: Opening Asset editor for World /Game/jam.jam
+[2026.01.28-10.58.25:242][281]Cmd: MAP LOAD FILE="../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Content/jam.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.28-10.58.25:254][281]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-10.58.25:254][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-10.58.25:255][281]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson
+[2026.01.28-10.58.25:273][281]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.28-10.58.25:277][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.28-10.58.25:278][281]LogWorld: UWorld::CleanupWorld for jam, bSessionEnded=true, bCleanupResources=true
+[2026.01.28-10.58.25:278][281]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.28-10.58.25:294][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.28-10.58.25:309][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.01.28-10.58.25:310][281]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-10.58.25:311][281]LogAudio: Display: Audio Device (ID: 1) registered with world 'jam'.
+[2026.01.28-10.58.25:311][281]LogChaosDD: Creating Chaos Debug Draw Scene for world jam
+[2026.01.28-10.58.25:318][281]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.28-10.58.25:335][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.28-10.58.25:339][281]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.28-10.58.25:339][281]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.05ms to complete.
+[2026.01.28-10.58.25:408][281]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-10.58.25:408][281]LogContentValidation: Enabled validators:
+[2026.01.28-10.58.25:408][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-10.58.25:408][281]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-10.58.25:408][281]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-10.58.25:408][281]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-10.58.25:408][281]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-10.58.25:408][281]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-10.58.25:408][281]AssetCheck: /Game/jam Validating asset
+[2026.01.28-10.58.25:432][281]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/SourceControl/UncontrolledChangelists.json
+[2026.01.28-10.58.25:485][283]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.28-10.58.30:898][843]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.01.28-10.58.30:898][843]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.DirectionalLight
+[2026.01.28-10.58.30:900][843]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/jam.jam:PersistentLevel.DirectionalLight_0
+[2026.01.28-10.58.30:900][843]LogActorFactory: Actor Factory spawned Class /Script/Engine.DirectionalLight as actor: DirectionalLight /Game/jam.jam:PersistentLevel.DirectionalLight_0
+[2026.01.28-10.58.33:715][125]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2026.01.28-10.58.33:715][125]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyLight
+[2026.01.28-10.58.33:716][125]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/jam.jam:PersistentLevel.SkyLight_0
+[2026.01.28-10.58.33:716][125]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyLight as actor: SkyLight /Game/jam.jam:PersistentLevel.SkyLight_0
+[2026.01.28-10.58.38:249][619]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.01.28-10.58.38:249][619]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.PointLight
+[2026.01.28-10.58.42:654][ 66]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2026.01.28-10.58.44:512][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2026.01.28-10.58.44:512][258]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.ExponentialHeightFog
+[2026.01.28-10.58.44:512][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/jam.jam:PersistentLevel.ExponentialHeightFog_0
+[2026.01.28-10.58.44:512][258]LogActorFactory: Actor Factory spawned Class /Script/Engine.ExponentialHeightFog as actor: ExponentialHeightFog /Game/jam.jam:PersistentLevel.ExponentialHeightFog_0
+[2026.01.28-10.58.50:120][859]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.LocalFogVolume
+[2026.01.28-10.58.50:120][859]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.LocalFogVolume
+[2026.01.28-10.58.50:121][859]LogActorFactory: Actor Factory spawned Class /Script/Engine.LocalFogVolume as actor: LocalFogVolume /Game/jam.jam:PersistentLevel.LocalFogVolume_0
+[2026.01.28-10.58.50:121][859]LogActorFactory: Actor Factory spawned Class /Script/Engine.LocalFogVolume as actor: LocalFogVolume /Game/jam.jam:PersistentLevel.LocalFogVolume_0
+[2026.01.28-10.58.59:247][854]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2026.01.28-10.58.59:247][854]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.VolumetricCloud
+[2026.01.28-10.58.59:248][854]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/jam.jam:PersistentLevel.VolumetricCloud_0
+[2026.01.28-10.58.59:248][854]LogActorFactory: Actor Factory spawned Class /Script/Engine.VolumetricCloud as actor: VolumetricCloud /Game/jam.jam:PersistentLevel.VolumetricCloud_0
+[2026.01.28-10.59.04:895][413]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2026.01.28-10.59.04:895][413]LogActorFactory: Actor Factory attempting to spawn Class /Script/Engine.SkyAtmosphere
+[2026.01.28-10.59.04:897][413]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/jam.jam:PersistentLevel.SkyAtmosphere_0
+[2026.01.28-10.59.04:897][413]LogActorFactory: Actor Factory spawned Class /Script/Engine.SkyAtmosphere as actor: SkyAtmosphere /Game/jam.jam:PersistentLevel.SkyAtmosphere_0
+[2026.01.28-10.59.16:612][519]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-10.59.18:343][629]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2026.01.28-10.59.18:343][629]LogStreaming: Display: FlushAsyncLoading(405): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.28-10.59.18:395][629]LogInteractiveToolsContext: Warning: Creating new asset.
+[2026.01.28-10.59.18:523][633]LogPSOHitching: Encountered 200 PSO creation hitches so far (65 graphics, 135 compute). 0 of them were precached.
+[2026.01.28-11.00.04:033][601]Cmd: TRANSACTION UNDO
+[2026.01.28-11.00.04:033][601]LogEditorTransaction: Undo Block Tool Change
+[2026.01.28-11.00.09:017][ 91]Cmd: TRANSACTION UNDO
+[2026.01.28-11.00.09:017][ 91]LogEditorTransaction: Undo Block Tool Change
+[2026.01.28-11.00.09:853][130]Cmd: TRANSACTION UNDO
+[2026.01.28-11.00.09:853][130]LogEditorTransaction: Undo Block Tool Change
+[2026.01.28-11.01.03:416][ 63]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056
+[2026.01.28-11.01.03:417][ 63]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_69D0C056 (Required Memory Estimate: 0.05374 MB)...
+[2026.01.28-11.01.03:417][ 63]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056 as actor: StaticMeshActor /Game/jam.jam:PersistentLevel.StaticMeshActor_0
+[2026.01.28-11.01.03:418][ 63]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056
+[2026.01.28-11.01.11:491][253]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-11.01.11:610][253]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.01.28-11.01.11:625][253]LogSavePackage: Moving output files for package: /Game/jam
+[2026.01.28-11.01.11:625][253]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/jam0AB118B24D66E5BB84D8C68B4F0615FF.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Content/jam.umap'
+[2026.01.28-11.01.11:632][253]LogFileHelpers: Saving map 'jam' took 0.082
+[2026.01.28-11.01.11:643][253]LogFileHelpers: InternalPromptForCheckoutAndSave took 151.080 ms (total: 406.119 ms)
+[2026.01.28-11.01.11:684][253]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-11.01.11:684][253]LogContentValidation: Enabled validators:
+[2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-11.01.11:684][253]AssetCheck: /Game/jam Validating asset
