@@ -1436,3 +1436,287 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2026.01.28-11.01.11:684][253]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2026.01.28-11.01.11:684][253]AssetCheck: /Game/jam Validating asset
+[2026.01.28-11.03.04:832][148]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2026.01.28-11.03.04:836][148]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2026.01.28-11.03.14:659][232]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 685.791870
+[2026.01.28-11.03.14:804][247]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-11.03.14:804][247]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 685.927673, Update Interval: 307.544189
+[2026.01.28-11.08.27:032][857]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 998.152344
+[2026.01.28-11.08.27:184][874]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-11.08.27:184][875]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 998.296570, Update Interval: 320.751984
+[2026.01.28-11.09.43:094][ 19]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_69D0C056 (Required Memory Estimate: 0.211847 MB)...
+[2026.01.28-11.09.43:095][ 19]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056
+[2026.01.28-11.09.43:102][ 19]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.28-11.09.43:102][ 19]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.28-11.09.47:130][475]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.28-11.10.36:216][564]Cmd: TRANSACTION UNDO
+[2026.01.28-11.10.36:216][564]LogEditorTransaction: Undo Transform
+[2026.01.28-11.11.08:579][104]Cmd: TRANSACTION UNDO
+[2026.01.28-11.11.08:579][104]LogEditorTransaction: Undo Set Scale
+[2026.01.28-11.11.11:042][314]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/up2525351/Rectangle_B27EA11D.Rectangle_B27EA11D
+[2026.01.28-11.11.11:042][314]LogStaticMesh: Display: Building static mesh Rectangle_B27EA11D (Required Memory Estimate: 0.011783 MB)...
+[2026.01.28-11.11.11:043][314]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/up2525351/Rectangle_B27EA11D.Rectangle_B27EA11D
+[2026.01.28-11.11.11:043][314]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/up2525351/Rectangle_B27EA11D.Rectangle_B27EA11D as actor: StaticMeshActor /Game/jam.jam:PersistentLevel.StaticMeshActor_1
+[2026.01.28-11.12.16:727][922]Cmd: EDIT COPY
+[2026.01.28-11.12.16:986][942]Cmd: EDIT PASTE
+[2026.01.28-11.12.49:751][113]Cmd: TRANSACTION UNDO
+[2026.01.28-11.12.49:751][113]LogEditorTransaction: Undo Move Elements
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: ================================================
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Total job queries 2,560, among them cache hits 679 (26.52%), DDC hits 1,815 (70.90%), Duplicates 59 (2.30%)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Tracking 1,822 distinct input hashes that result in 1,150 distinct outputs (63.12%)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: RAM used: 11.71 MiB of 1.60 GiB budget. Usage: 0.71%
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Shaders Compiled: 7
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Jobs assigned 7, completed 7 (100%)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Average time worker was idle: 1218.99 s
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.07 s
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Job execution time: average 1.06 s, max 1.87 s
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Job life time (pending + execution): average 1.08 s, max 1.89
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Shader code size: total 58.371 KiB, numShaders 7, average 8.338 KiB, min 5.562 KiB, max 12.457 KiB
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.77 s
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Jobs were issued in 7 batches (only local compilation was used), average 1.00 jobs/batch
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Average processing rate: 2.53 jobs/sec
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Total thread time: 3.921 s
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Total thread preprocess time: 21.738 s
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Percentage time preprocessing: 554.45%
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Effective parallelization: 1.42 (times faster than compiling all shaders on one thread). Compare with number of workers: 10 - 0.141784
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.40 sec, max 1.47 sec, min 1.32 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.28 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                        FRayTracingDynamicGeometryConverterCS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 71.24% of total time (compiled    2 times, average 1.40 sec, max 1.47 sec, min 1.32 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.44% of total time (compiled    2 times, average 0.28 sec, max 0.29 sec, min 0.28 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.33% of total time (compiled    2 times, average 0.18 sec, max 0.19 sec, min 0.18 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                                  FHitProxyVS - 4.98% of total time (compiled    1 times, average 0.20 sec, max 0.20 sec, min 0.20 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: === Material stats ===
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Materials Cooked:        0
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Materials Translated:    150
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Material Total Translate Time: 0.10 s
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Material Translation Only: 0.03 s (29%)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (0%)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: Material Cache Hits: 0 (0%)
+[2026.01.28-11.12.55:755][501]LogShaderCompilers: Display: ================================================
+[2026.01.28-11.13.29:121][702]Cmd: EDIT COPY
+[2026.01.28-11.13.31:344][857]Cmd: EDIT PASTE
+[2026.01.28-11.13.44:227][676]Cmd: EDIT COPY
+[2026.01.28-11.13.44:447][688]Cmd: EDIT PASTE
+[2026.01.28-11.13.57:025][497]Cmd: EDIT COPY
+[2026.01.28-11.13.57:220][510]Cmd: EDIT PASTE
+[2026.01.28-11.14.02:634][879]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1333.756348
+[2026.01.28-11.14.02:794][890]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-11.14.02:794][890]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1333.907349, Update Interval: 314.553680
+[2026.01.28-11.14.22:102][208]Cmd: EDIT COPY
+[2026.01.28-11.14.22:298][222]Cmd: EDIT PASTE
+[2026.01.28-11.14.30:537][781]Cmd: EDIT COPY
+[2026.01.28-11.14.30:746][792]Cmd: EDIT PASTE
+[2026.01.28-11.14.38:976][372]Cmd: EDIT COPY
+[2026.01.28-11.14.39:190][386]Cmd: EDIT PASTE
+[2026.01.28-11.14.56:230][463]Cmd: EDIT COPY
+[2026.01.28-11.14.56:400][475]Cmd: EDIT PASTE
+[2026.01.28-11.15.16:340][825]Cmd: EDIT COPY
+[2026.01.28-11.15.16:529][839]Cmd: EDIT PASTE
+[2026.01.28-11.15.31:773][845]Cmd: EDIT COPY
+[2026.01.28-11.15.31:976][858]Cmd: EDIT PASTE
+[2026.01.28-11.15.57:233][549]Cmd: EDIT COPY
+[2026.01.28-11.15.57:431][563]Cmd: EDIT PASTE
+[2026.01.28-11.16.12:076][592]Cmd: EDIT COPY
+[2026.01.28-11.16.12:284][603]Cmd: EDIT PASTE
+[2026.01.28-11.16.26:310][465]Cmd: EDIT COPY
+[2026.01.28-11.16.26:324][466]Cmd: EDIT CUT
+[2026.01.28-11.16.26:326][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.16.26:326][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.16.26:363][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2026.01.28-11.16.26:365][466]LogEditorActor: Deleted 2 Actors (0.041 secs)
+[2026.01.28-11.16.26:468][476]Cmd: EDIT PASTE
+[2026.01.28-11.16.30:491][755]Cmd: TRANSACTION UNDO
+[2026.01.28-11.16.30:491][755]LogEditorTransaction: Undo Move Elements
+[2026.01.28-11.16.31:197][779]Cmd: EDIT COPY
+[2026.01.28-11.16.31:403][792]Cmd: EDIT PASTE
+[2026.01.28-11.16.47:676][853]Cmd: EDIT COPY
+[2026.01.28-11.16.47:932][871]Cmd: EDIT PASTE
+[2026.01.28-11.16.47:932][871]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2026.01.28-11.17.00:380][728]Cmd: EDIT COPY
+[2026.01.28-11.17.00:580][742]Cmd: EDIT PASTE
+[2026.01.28-11.17.32:648][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.28-11.17.32:668][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/jam_Auto1
+[2026.01.28-11.17.32:668][912]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/jam_Auto17FB5201341A9D558F474E29D2A3AD57D.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/jam_Auto1.umap'
+[2026.01.28-11.17.32:670][912]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/jam' took 0.037
+[2026.01.28-11.17.32:670][912]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2026.01.28-11.17.32:671][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056] ([1] browsable assets)...
+[2026.01.28-11.17.32:715][912]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056]
+[2026.01.28-11.17.32:716][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056]
+[2026.01.28-11.17.32:728][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056_Auto1
+[2026.01.28-11.17.32:728][912]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/CubeGridToolOutput_69D0C056_Auto594AC620461F7EEBAD82F0B2A7951B9A.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056_Auto1.uasset'
+[2026.01.28-11.17.32:729][912]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/up2525351/Rectangle_B27EA11D] ([1] browsable assets)...
+[2026.01.28-11.17.32:736][912]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/up2525351/Rectangle_B27EA11D.Rectangle_B27EA11D]
+[2026.01.28-11.17.32:736][912]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/up2525351/Rectangle_B27EA11D]
+[2026.01.28-11.17.32:747][912]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/up2525351/Rectangle_B27EA11D_Auto1
+[2026.01.28-11.17.32:747][912]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Rectangle_B27EA11D_Auto17E773B814C31D9E480652C8A9BD405C1.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/_GENERATED/up2525351/Rectangle_B27EA11D_Auto1.uasset'
+[2026.01.28-11.17.32:748][912]LogFileHelpers: Auto-saving content packages took 0.077
+[2026.01.28-11.17.35:334][ 44]Cmd: EDIT COPY
+[2026.01.28-11.17.35:493][ 55]Cmd: EDIT PASTE
+[2026.01.28-11.17.58:468][586]Cmd: EDIT COPY
+[2026.01.28-11.17.58:681][603]Cmd: EDIT PASTE
+[2026.01.28-11.18.10:833][387]Cmd: EDIT COPY
+[2026.01.28-11.18.11:008][397]Cmd: EDIT PASTE
+[2026.01.28-11.18.18:858][932]Cmd: EDIT COPY
+[2026.01.28-11.18.19:038][944]Cmd: EDIT PASTE
+[2026.01.28-11.18.35:109][119]LogInteractiveToolsContext: Display: Draw a path on the drawing plane, set its width, and extrude it. Left-click to place path vertices, and click on the last or first vertex to complete the path. Hold Shift to ignore snapping while drawing.
+[2026.01.28-11.19.05:894][399]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2026.01.28-11.19.05:898][399]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2026.01.28-11.19.39:655][ 70]LogSlate: Window 'Accept changes instead?' being destroyed
+[2026.01.28-11.19.39:735][ 70]Message dialog closed, result: Yes, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2026.01.28-11.19.39:740][ 70]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_69D0C056 (Required Memory Estimate: 0.21867 MB)...
+[2026.01.28-11.19.39:742][ 70]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056
+[2026.01.28-11.19.39:918][ 70]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1671.039673
+[2026.01.28-11.19.40:357][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-11.19.40:357][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1671.455933, Update Interval: 346.607269
+[2026.01.28-11.19.43:489][318]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.28-11.19.43:489][318]LogInteractiveToolsContext: Display: This Tool creates new shapes. Click in the scene to choose initial placement of mesh.
+[2026.01.28-11.20.03:728][574]LogInteractiveToolsContext: Display: Alter shape settings in the detail panel or modify placement with gizmo, then accept the tool.
+[2026.01.28-11.20.11:976][463]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/up2525351/Stairs_D83A2772.Stairs_D83A2772
+[2026.01.28-11.20.11:976][463]LogStaticMesh: Display: Building static mesh Stairs_D83A2772 (Required Memory Estimate: 0.336536 MB)...
+[2026.01.28-11.20.11:977][463]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/up2525351/Stairs_D83A2772.Stairs_D83A2772 as actor: StaticMeshActor /Game/jam.jam:PersistentLevel.StaticMeshActor_33
+[2026.01.28-11.20.11:977][463]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/up2525351/Stairs_D83A2772.Stairs_D83A2772
+[2026.01.28-11.20.28:026][590]Cmd: TRANSACTION UNDO
+[2026.01.28-11.20.28:026][590]LogEditorTransaction: Undo Set Scale
+[2026.01.28-11.20.35:222][ 57]Cmd: EDIT COPY
+[2026.01.28-11.20.35:468][ 71]Cmd: EDIT PASTE
+[2026.01.28-11.20.58:010][593]Cmd: EDIT COPY
+[2026.01.28-11.20.58:167][603]Cmd: EDIT PASTE
+[2026.01.28-11.22.32:664][591]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2026.01.28-11.22.32:668][591]LogInteractiveToolsContext: Warning: Creating new asset.
+[2026.01.28-11.23.09:100][757]Cmd: TRANSACTION UNDO
+[2026.01.28-11.23.09:100][757]LogEditorTransaction: Undo Cube Grid Selection Change
+[2026.01.28-11.23.09:751][780]Cmd: TRANSACTION UNDO
+[2026.01.28-11.23.09:751][780]LogEditorTransaction: Undo Block Tool Change
+[2026.01.28-11.24.09:422][883]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2026.01.28-11.24.09:426][883]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2026.01.28-11.26.25:815][426]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2076.946777
+[2026.01.28-11.26.25:962][442]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-11.26.25:962][442]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2077.084961, Update Interval: 345.883972
+[2026.01.28-11.26.55:138][169]LogSlate: Window 'Accept changes instead?' being destroyed
+[2026.01.28-11.26.55:144][169]Message dialog closed, result: Yes, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2026.01.28-11.26.55:149][169]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_69D0C056 (Required Memory Estimate: 0.326236 MB)...
+[2026.01.28-11.26.55:151][169]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056
+[2026.01.28-11.26.55:151][169]LogStaticMesh: Warning: CubeGridToolOutput_69D0C056 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2026.01.28-11.26.55:151][169]LogStaticMesh: Warning: CubeGridToolOutput_69D0C056 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2026.01.28-11.28.00:461][443]Cmd: EDIT COPY
+[2026.01.28-11.28.00:698][459]Cmd: EDIT PASTE
+[2026.01.28-11.28.08:055][984]Cmd: EDIT COPY
+[2026.01.28-11.28.08:235][996]Cmd: EDIT PASTE
+[2026.01.28-11.28.16:120][561]Cmd: EDIT COPY
+[2026.01.28-11.28.16:353][576]Cmd: EDIT PASTE
+[2026.01.28-11.28.19:599][793]Cmd: EDIT COPY
+[2026.01.28-11.28.19:793][807]Cmd: EDIT PASTE
+[2026.01.28-11.28.31:406][614]Cmd: EDIT COPY
+[2026.01.28-11.28.31:626][624]Cmd: EDIT PASTE
+[2026.01.28-11.28.36:374][948]Cmd: EDIT COPY
+[2026.01.28-11.28.36:564][961]Cmd: EDIT PASTE
+[2026.01.28-11.28.44:681][515]Cmd: EDIT COPY
+[2026.01.28-11.28.44:871][525]Cmd: EDIT PASTE
+[2026.01.28-11.29.23:131][973]Cmd: EDIT COPY
+[2026.01.28-11.29.23:345][988]Cmd: EDIT PASTE
+[2026.01.28-11.29.34:528][726]Cmd: EDIT COPY
+[2026.01.28-11.29.34:699][738]Cmd: EDIT PASTE
+[2026.01.28-11.29.56:120][121]Cmd: EDIT COPY
+[2026.01.28-11.29.56:339][135]Cmd: EDIT PASTE
+[2026.01.28-11.29.56:339][135]LogWindows: Warning: OpenClipboard failed with error code 5
+[2026.01.28-11.30.01:526][443]Cmd: EDIT COPY
+[2026.01.28-11.30.01:779][456]Cmd: EDIT PASTE
+[2026.01.28-11.30.17:186][410]Cmd: EDIT PASTE
+[2026.01.28-11.30.32:106][422]Cmd: EDIT COPY
+[2026.01.28-11.30.32:318][433]Cmd: EDIT PASTE
+[2026.01.28-11.30.38:669][804]Cmd: TRANSACTION UNDO
+[2026.01.28-11.30.38:669][804]LogEditorTransaction: Undo Move Elements
+[2026.01.28-11.30.52:275][622]Cmd: EDIT COPY
+[2026.01.28-11.30.52:473][634]Cmd: EDIT PASTE
+[2026.01.28-11.31.29:766][ 30]Cmd: DELETE
+[2026.01.28-11.31.29:766][ 30]Cmd: ACTOR DELETE
+[2026.01.28-11.31.29:769][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.31.29:770][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.31.29:904][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2026.01.28-11.31.29:908][ 30]LogEditorActor: Deleted 2 Actors (0.142 secs)
+[2026.01.28-11.31.36:771][531]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2026.01.28-11.31.36:775][531]LogInteractiveToolsContext: Warning: Creating new asset.
+[2026.01.28-11.32.22:015][614]LogSlate: Window 'Accept changes instead?' being destroyed
+[2026.01.28-11.32.22:020][614]Message dialog closed, result: Yes, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2026.01.28-11.32.22:021][614]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D.CubeGridToolOutput_13E4E39D
+[2026.01.28-11.32.22:023][614]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_13E4E39D (Required Memory Estimate: 0.027864 MB)...
+[2026.01.28-11.32.22:023][614]LogActorFactory: Actor Factory spawned StaticMesh /Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D.CubeGridToolOutput_13E4E39D as actor: StaticMeshActor /Game/jam.jam:PersistentLevel.StaticMeshActor_52
+[2026.01.28-11.32.22:023][614]LogStaticMesh: Built static mesh [0.00s] /Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D.CubeGridToolOutput_13E4E39D
+[2026.01.28-11.32.26:455][848]Cmd: DELETE
+[2026.01.28-11.32.26:455][848]Cmd: ACTOR DELETE
+[2026.01.28-11.32.26:458][848]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.32.26:500][848]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2026.01.28-11.32.26:504][848]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2026.01.28-11.32.27:811][932]Cmd: DELETE
+[2026.01.28-11.32.27:811][932]Cmd: ACTOR DELETE
+[2026.01.28-11.32.27:812][932]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.32.27:827][932]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2026.01.28-11.32.27:831][932]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2026.01.28-11.32.32:706][226]Cmd: DELETE
+[2026.01.28-11.32.32:706][226]Cmd: ACTOR DELETE
+[2026.01.28-11.32.32:708][226]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.32.32:724][226]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2026.01.28-11.32.32:727][226]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.01.28-11.32.33:232][251]Cmd: DELETE
+[2026.01.28-11.32.33:232][251]Cmd: ACTOR DELETE
+[2026.01.28-11.32.33:234][251]LogEditorActor: Deleted Actor: StaticMeshActor
+[2026.01.28-11.32.33:250][251]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.01.28-11.32.33:254][251]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2026.01.28-11.33.05:478][406]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2476.593262
+[2026.01.28-11.33.05:649][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.01.28-11.33.05:649][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2476.750977, Update Interval: 318.629730
+[2026.01.28-11.33.11:662][830]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2026.01.28-11.33.11:684][830]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/jam_Auto2
+[2026.01.28-11.33.11:684][830]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/jam_Auto285FC3321443ACC27093BCAAD11C68709.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/jam_Auto2.umap'
+[2026.01.28-11.33.11:686][830]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/jam' took 0.040
+[2026.01.28-11.33.11:686][830]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2026.01.28-11.33.11:686][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056] ([1] browsable assets)...
+[2026.01.28-11.33.11:721][830]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056.CubeGridToolOutput_69D0C056]
+[2026.01.28-11.33.11:721][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056]
+[2026.01.28-11.33.11:733][830]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056_Auto2
+[2026.01.28-11.33.11:733][830]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/CubeGridToolOutput_69D0C056_Auto2A61A39B4F2879A7F497769B8BEA451D.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/_GENERATED/up2525351/CubeGridToolOutput_69D0C056_Auto2.uasset'
+[2026.01.28-11.33.11:734][830]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/_GENERATED/up2525351/Rectangle_B27EA11D] ([1] browsable assets)...
+[2026.01.28-11.33.11:734][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/up2525351/Rectangle_B27EA11D]
+[2026.01.28-11.33.11:743][830]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/up2525351/Rectangle_B27EA11D_Auto2
+[2026.01.28-11.33.11:743][830]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Rectangle_B27EA11D_Auto258D82E8E4A7E8CBA66433BA74FF74466.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/_GENERATED/up2525351/Rectangle_B27EA11D_Auto2.uasset'
+[2026.01.28-11.33.11:744][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/up2525351/Stairs_D83A2772] ([1] browsable assets)...
+[2026.01.28-11.33.11:752][830]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/up2525351/Stairs_D83A2772.Stairs_D83A2772]
+[2026.01.28-11.33.11:752][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/up2525351/Stairs_D83A2772]
+[2026.01.28-11.33.11:763][830]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/up2525351/Stairs_D83A2772_Auto2
+[2026.01.28-11.33.11:763][830]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Stairs_D83A2772_Auto26B222D594CDB409A73577FA289C1ACED.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/_GENERATED/up2525351/Stairs_D83A2772_Auto2.uasset'
+[2026.01.28-11.33.11:764][830]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D] ([1] browsable assets)...
+[2026.01.28-11.33.11:771][830]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D.CubeGridToolOutput_13E4E39D]
+[2026.01.28-11.33.11:771][830]OBJ SavePackage: Finished generating thumbnails for package [/Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D]
+[2026.01.28-11.33.11:781][830]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D_Auto2
+[2026.01.28-11.33.11:781][830]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/CubeGridToolOutput_13E4E39D_Auto122FBFC44F3369235E24DF97C9319EA8.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/Autosaves/Game/_GENERATED/up2525351/CubeGridToolOutput_13E4E39D_Auto2.uasset'
+[2026.01.28-11.33.11:781][830]LogFileHelpers: Auto-saving content packages took 0.096
+[2026.01.28-11.36.04:537][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.28-11.36.04:613][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2026.01.28-11.36.04:630][ 87]LogSavePackage: Moving output files for package: /Game/jam
+[2026.01.28-11.36.04:631][ 87]LogSavePackage: Moving '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Saved/jam2AE6CC08463F26138D91C0B4DB892AAE.tmp' to '../../../../../../Users/up2525351/OneDrive - University of Portsmouth/git hub jam/MaskJam/MaskJam/Content/jam.umap'
+[2026.01.28-11.36.04:639][ 87]LogFileHelpers: Saving map 'jam' took 0.054
+[2026.01.28-11.36.04:645][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 107.379 ms (total: 513.498 ms)
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: Enabled validators:
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.28-11.36.04:706][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.28-11.36.04:706][ 87]AssetCheck: /Game/jam Validating asset
